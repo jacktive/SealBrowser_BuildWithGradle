@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:18:1-128:12
+	package
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:19:5-23
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:23:5-32
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:20:5-51
+	android:versionCode
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:22:5-29
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:18:11-69
+	android:installLocation
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:21:5-35
+uses-sdk
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:25:5-27:41
+MERGED from [SealBrowser:chromium_webview:unspecified] D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\chromium_webview\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [SealBrowser:tintBrowserAddonFrameworkLibrary:unspecified] D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\tintBrowserAddonFrameworkLibrary\unspecified\AndroidManifest.xml:24:5-26:41
+	android:targetSdkVersion
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:27:9-38
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:26:9-35
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+		INJECTED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml
+permission#com.seal.permissions.bookmarksprovider.READ
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:29:5-34:47
+	android:label
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:32:9-61
+	android:protectionLevel
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:34:9-44
+	android:permissionGroup
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:33:9-73
+	android:description
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:31:9-73
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:30:9-67
+permission#com.seal.permissions.bookmarksprovider.WRITE
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:35:5-40:47
+	android:label
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:38:9-62
+	android:protectionLevel
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:40:9-44
+	android:permissionGroup
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:39:9-73
+	android:description
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:37:9-74
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:36:9-68
+permission#com.seal.permissions.services.ADDONS
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:41:5-45:47
+	android:label
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:44:9-64
+	android:protectionLevel
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:45:9-44
+	android:description
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:43:9-76
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:42:9-60
+uses-permission#com.seal.permissions.services.ADDONS
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:47:5-76
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:47:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:48:5-67
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:48:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:49:5-81
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:49:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:50:5-81
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:50:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:51:5-65
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:51:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:53:5-60
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:53:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:54:5-70
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:54:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:56:5-66
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:56:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:57:5-69
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:57:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:58:5-80
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:58:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:59:5-84
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:59:22-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:60:5-76
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:60:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:61:5-79
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:61:22-76
+application
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:62:5-126:19
+MERGED from [SealBrowser:chromium_webview:unspecified] D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\chromium_webview\unspecified\AndroidManifest.xml:11:5-16:19
+	android:label
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:67:9-48
+		REJECTED from [SealBrowser:chromium_webview:unspecified] D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\chromium_webview\unspecified\AndroidManifest.xml:14:9-41
+	android:hardwareAccelerated
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:65:9-43
+	android:allowBackup
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:64:9-35
+	android:icon
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:66:9-45
+	android:theme
+		ADDED from [SealBrowser:chromium_webview:unspecified] D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\chromium_webview\unspecified\AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:68:9-38
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:63:9-59
+activity#com.seal.ui.activities.SealBrowserActivity
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:69:9-90:20
+	android:label
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:72:13-52
+	android:launchMode
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:73:13-44
+	android:configChanges
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:71:13-83
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:70:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:76:13-80:29
+action#android.intent.action.MAIN
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:77:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:79:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:81:13-89:29
+action#android.intent.action.VIEW
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:82:17-69
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:82:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:84:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:85:17-78
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:85:27-75
+data
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:87:17-47
+	android:scheme
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:87:23-44
+activity#com.zxing.barcode.util.CaptureActivity
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:91:9-94:20
+	android:screenOrientation
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:92:13-66
+activity#com.zxing.barcode.util.IsHttpDialog
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:95:9-98:20
+	android:theme
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:97:13-47
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:96:13-63
+activity#com.seal.ui.preferences.PreferencesActivity
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:99:9-102:20
+	android:label
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:101:13-61
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:100:13-63
+activity#com.seal.ui.activities.BookmarksActivity
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:103:9-104:20
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:103:19-66
+activity#com.seal.ui.activities.EditBookmarkActivity
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:105:9-108:20
+	android:theme
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:107:13-70
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:106:13-63
+provider#com.seal.providers.BookmarksProvider
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:110:9-115:86
+	android:readPermission
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:114:13-81
+	android:authorities
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:112:13-71
+	android:exported
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:113:13-36
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:111:13-56
+	android:writePermission
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:115:13-83
+provider#com.seal.providers.SslExceptionsProvider
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:116:9-119:40
+	android:authorities
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:118:13-75
+	android:exported
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:119:13-37
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:117:13-60
+service#com.baidu.location.f
+ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:121:9-125:19
+	android:enabled
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:123:13-35
+	android:process
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:124:13-38
+	android:name
+		ADDED from D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\src\main\AndroidManifest.xml:122:13-48

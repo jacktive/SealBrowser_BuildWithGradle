@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw-zh-rCN\\phone_tutorial_html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\raw-zh-rCN\\phone_tutorial_html"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw-zh-rCN\\contributors_html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\raw-zh-rCN\\contributors_html"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw-zh-rCN\\loaderror.html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\raw-zh-rCN\\loaderror.html"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw-zh-rCN\\nodomain.html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\raw-zh-rCN\\nodomain.html"
+    }
+]

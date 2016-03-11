@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gps_on_holo_dark.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_gps_on_holo_dark.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\app_web_browser_sm.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\app_web_browser_sm.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\start_page.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\start_page.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bookmarks.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_bookmarks.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bubble_left.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_bubble_left.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ab_solid_dark_holo.9.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_find_previous_holo_light.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\drawable-mdpi-v4\\ic_find_previous_holo_light.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_overflow.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_menu_overflow.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_next_tab.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_next_tab.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gps_denied_holo_dark.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_gps_denied_holo_dark.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_add_bookmark.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_add_bookmark.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_video_poster.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\drawable-mdpi-v4\\ic_media_video_poster.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_panel_button_pressed.9.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\tab_panel_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_querybuilder_disabled.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_querybuilder_disabled.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_querybuilder_pressed.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_querybuilder_pressed.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_video_poster.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\default_video_poster.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bookmark_off.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_bookmark_off.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bubble_right.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_bubble_right.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\browser_thumbnail.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\browser_thumbnail.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_querybuilder_normal.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_querybuilder_normal.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_list_data_large.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_list_data_large.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_incognito_holo_dark.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_incognito_holo_dark.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_tab_close.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_tab_close.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\nav_tab_bg.9.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\nav_tab_bg.9.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_exit_fullscreen.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_exit_fullscreen.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_list_data_off.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_list_data_off.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bookmark_on.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_bookmark_on.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_previous_tab.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_previous_tab.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_list_data_small.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_list_data_small.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_folder.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_folder.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\divider_vertical_dark_opaque.9.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\divider_vertical_dark_opaque.9.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_back_hierarchy.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\ic_back_hierarchy.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_find_next_holo_light.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\drawable-mdpi-v4\\ic_find_next_holo_light.png"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_panel_button_normal.9.png",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\drawable-mdpi\\tab_panel_button_normal.9.png"
+    }
+]

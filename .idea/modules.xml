@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SealBrowser.iml" filepath="$PROJECT_DIR$/SealBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chromium_webview/chromium_webview.iml" filepath="$PROJECT_DIR$/chromium_webview/chromium_webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sealBrowser/sealBrowser.iml" filepath="$PROJECT_DIR$/sealBrowser/sealBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tintBrowserAddonFrameworkLibrary/tintBrowserAddonFrameworkLibrary.iml" filepath="$PROJECT_DIR$/tintBrowserAddonFrameworkLibrary/tintBrowserAddonFrameworkLibrary.iml" />
+    </modules>
+  </component>
+</project>

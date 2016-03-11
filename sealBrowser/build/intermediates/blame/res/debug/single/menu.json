@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\menu\\webview_find.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\menu\\webview_find.xml"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\menu\\bookmarks_activity_menu.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\menu\\bookmarks_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_menu.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_menu_tablet.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\menu\\main_activity_menu_tablet.xml"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\menu\\select_action_menu.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\menu\\select_action_menu.xml"
+    }
+]

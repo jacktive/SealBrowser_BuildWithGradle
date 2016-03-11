@@ -1,0 +1,3 @@
+include ':tintBrowserAddonFrameworkLibrary'
+include ':chromium_webview'
+include ':sealBrowser'

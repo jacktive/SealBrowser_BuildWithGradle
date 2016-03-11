@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw\\loaderror.html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\raw\\loaderror.html"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw\\licenses_html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\raw\\licenses_html"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw\\qrcode_found.wav",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\raw\\qrcode_found.wav"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw\\nodomain.html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\exploded-aar\\SealBrowser\\chromium_webview\\unspecified\\res\\raw\\nodomain.html"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw\\changelog_html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\raw\\changelog_html"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\raw\\contributors_html",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\raw\\contributors_html"
+    }
+]

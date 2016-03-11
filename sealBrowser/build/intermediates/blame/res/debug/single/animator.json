@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\animator\\dismisspopwin.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\animator\\dismisspopwin.xml"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\animator\\fade_in.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\animator\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\animator\\showpopwin.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\animator\\showpopwin.xml"
+    },
+    {
+        "merged": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\build\\intermediates\\res\\merged\\debug\\animator\\fade_out.xml",
+        "source": "D:\\MyProgram\\AndroidStudio\\SealBrowser\\sealBrowser\\src\\main\\res\\animator\\fade_out.xml"
+    }
+]

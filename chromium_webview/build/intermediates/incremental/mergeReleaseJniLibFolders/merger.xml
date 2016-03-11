@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\MyProgram\AndroidStudio\SealBrowser\chromium_webview\src\main\jniLibs"><file name="armeabi-v7a/libchromeview.so" path="D:\MyProgram\AndroidStudio\SealBrowser\chromium_webview\src\main\jniLibs\armeabi-v7a\libchromeview.so"/></source></dataSet><dataSet config="release"><source path="D:\MyProgram\AndroidStudio\SealBrowser\chromium_webview\src\release\jniLibs"/></dataSet></merger>

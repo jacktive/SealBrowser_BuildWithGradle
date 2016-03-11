@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">true</bool>
+    <dimen name="bookmarks_fragment_breadcrumb_margin_left_right">70dip</dimen>
+    <dimen name="bookmarks_fragment_column_width">125dip</dimen>
+    <dimen name="bookmarks_fragment_horizontal_spacing">25dip</dimen>
+    <dimen name="bookmarks_fragment_margin_left_right">75dip</dimen>
+    <dimen name="bookmarks_fragment_margin_top_bottom">25dip</dimen>
+    <dimen name="bookmarks_fragment_vertical_spacing">25dip</dimen>
+    <dimen name="history_row_padding_left_right">5dip</dimen>
+    <dimen name="history_row_padding_top_bottom">10dip</dimen>
+    <dimen name="startpage_fragment_column_width">125dip</dimen>
+    <dimen name="startpage_fragment_horizontal_spacing">25dip</dimen>
+    <dimen name="startpage_fragment_margin_left_right">50dip</dimen>
+    <dimen name="startpage_fragment_margin_top_bottom">10dip</dimen>
+    <dimen name="startpage_fragment_vertical_spacing">25dip</dimen>
+    <dimen name="tablet_history_fragment_header_margin_left">24dp</dimen>
+    <dimen name="tablet_history_fragment_values_margin_right">24dp</dimen>
+    <integer name="default_start_page_items_number">12</integer>
+</resources>

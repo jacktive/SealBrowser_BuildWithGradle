@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\chromium_webview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c93fb66443a48da36f235803d287df5bf663bae4">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\SealBrowser-chromium_webview-unspecified_c0142174e5ef658fa642f016f066808808b6b82f.jar" />
+    </item>
+    <item
+        jar="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_6fc1dcad962b65c558697b3803e9c5d4a6988a5b.jar" />
+    </item>
+    <item
+        jar="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\core_faf79f435e47068f27a21d04d6f364964767b341.jar" />
+    </item>
+    <item
+        jar="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\tintBrowserAddonFrameworkLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b01827ce3ae26d9c917eaa3222e43f34ef4b4e2a">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\SealBrowser-tintBrowserAddonFrameworkLibrary-unspecified_e57ee1aadc42456943414a539dea8e1b5b952211.jar" />
+    </item>
+    <item
+        jar="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\chromium_webview\unspecified\jars\libs\jsr_305_javalib.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad5f477e8920ad9a857cb273ce2d2bc0087674df">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\jsr_305_javalib_29b7665e885415f6142839dc0127cb451728d767.jar" />
+    </item>
+    <item
+        jar="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="deb339bac98ccf3b0b88244f01b4846076ffecf3">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\volley_c5d79dff5d3cda383fdbd2bd49c3e7d9f45e0327.jar" />
+    </item>
+    <item
+        jar="D:\xm\gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\gson-2.2.4_898a93baa214d1cdba36764bea91ff637f8cf354.jar" />
+    </item>
+    <item
+        jar="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\exploded-aar\SealBrowser\chromium_webview\unspecified\jars\libs\guava_javalib.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59e4696f8b9e0a797ef242bd27bea05f32649176">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\guava_javalib_d414230305763fab423636fc6ea790e341350fb3.jar" />
+    </item>
+    <item
+        jar="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\locSDK_3.3_7bdec747d67a833091c1bbee6269e40604cc5a7c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidCreator\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\MyProgram\AndroidStudio\SealBrowser\sealBrowser\build\intermediates\pre-dexed\debug\support-v4-19.1.0_3825b02bff74af847dcf4b14d5cd646802e52748.jar" />
+    </item>
+
+</items>
